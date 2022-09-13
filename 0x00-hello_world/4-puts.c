@@ -2,8 +2,8 @@
 /**
 *main - Entry point
 *
-*Description:
-*'The program prints  a sentence'
+*Description:'The program prints  a sentence'
+*
 *Return: Always 0 (Success) 
 */
 int main(void)
